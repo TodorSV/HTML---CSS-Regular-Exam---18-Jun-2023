@@ -1,0 +1,16 @@
+.footer {
+    padding: 2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .social-icons,p {
+    font-size: 1.3em;
+    color: #283534;
+}
+
+.social-icons {
+    display: flex;
+    gap: 1em;
+}

@@ -1,0 +1,84 @@
+.card-plans {
+    display: flex;
+    gap: 1em;
+    border: 2px solid #dbdbdb;
+    border-radius: 0.5em;
+}
+
+
+.card-plans .heading {
+    text-align: center;
+    align-self: center;
+    padding: 2em 0;
+}
+
+.card-plans .plan-plus,.plan-premium {
+    border-left: 1px solid #dbdbdb;
+    padding: 1em 0;
+}
+
+.card-plans .plan-heading {
+    font-size: 1.7em;
+    margin-bottom: 0.3em;
+    text-align: center;
+}
+
+
+.card-plans .plan-nav {
+    border-top: 1px solid #dbdbdb;
+}
+
+.card-plans  li {
+    list-style: none;
+    padding: 0.5em 0;
+}
+
+.plan-expand p {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.pricing-card-btn {
+    display: block;
+    max-width: 100%;
+    text-align: center;
+    background-color: #ade2df;
+    padding: 1em 2em;
+    border-radius: 0.4em;
+    text-decoration: none;
+    color: black;
+}
+
+.card-plans .plan-all {
+    padding: 2em;
+}
+
+
+.card-plans .plan-all h2 {
+    font-size: 2.5em;
+    margin-top: 0.6em;
+    padding-bottom: 0.7em;
+}
+
+.card-plans .plan-all ul{
+    padding: 2em 0;
+}
+
+.card-plans .plan-expand {
+    flex: 1 1 49%;
+    background-color: #ADE2DF;
+}
+
+.card-plans .plan-expand .contact-btn {
+    text-align: center;
+    display: block;
+    max-width: 95%;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 0.4em;
+    color: white;
+    font-weight: bold;
+    padding: 1em 2em;
+    margin-top: 10.5em;
+}

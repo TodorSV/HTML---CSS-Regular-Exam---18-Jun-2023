@@ -1,0 +1,38 @@
+.transactions  {
+    background-color: #ADE2DF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6em;
+}
+
+.transactions .media {
+    border: 2px dashed #98b8b6;
+}
+
+.transactions .media-content {
+    flex: 0 1 40%;
+}
+
+.transactions .media-content h3 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.transactions .media-content .content-paragraph {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.2em;
+}
+
+.transactions .media-content .content-second {
+    font-size: 1.3em;
+    color: #283534;
+    margin-bottom: 0.6em;
+}
+
+.transactions .media-content .explore {
+    margin-top: 2em;
+    font-size: 1.1em;
+    border-bottom: 2px solid #2d2e2e;
+}

@@ -1,0 +1,45 @@
+.finbest-app {
+    padding: 2em;
+    background-color: #ade2df;
+    text-align: center;
+  }
+  
+  
+  .finbest-app h2 {
+    font-size: 4.5em;
+    letter-spacing: 1px;
+  }
+  
+  
+  .finbest-app p {
+    font-size: 1.3em;
+    font-weight: 500;
+    margin-bottom: 2em;
+  }
+  
+  
+  .finbest-app .finbest-container ul {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    list-style: none;
+    margin-top: 2em;
+  }
+
+    .finbest-app .finbest-container ul li {
+        background-color: black;
+        padding: 1.6em 3.6em;
+        border-radius: 0.5em;
+    }
+
+    .finbest-app .finbest-container ul i {
+        padding-right: 0.2em;
+    }
+
+    .finbest-app .finbest-container ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+  
+  

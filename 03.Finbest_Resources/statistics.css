@@ -1,0 +1,30 @@
+.statistics {
+    background-color: #fff;
+    padding: 4em;
+}
+
+.statistics .container {
+    display: flex;
+    justify-content: space-between;
+   text-align: center;
+   padding: 0 5em;
+}
+
+.statistics .stat-card {
+    padding: 3em 6em;
+    border-left: 2px solid #DBDBDB;
+}
+
+.statistics .stat-card h3 {
+    font-size: 2.5em;
+    margin-bottom: 0.3em;
+}
+
+.statistics .stat-card p {
+    font-size: 0.9em;
+    /* margin-bottom: 1em; */
+}
+
+.statistics .stat-border {
+    border-right: 1px solid #DBDBDB;
+}
